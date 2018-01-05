@@ -1,9 +1,9 @@
 {
-    "name": "bamos.github.io",
+    "name": "barathiganesh-hb.github.io",
     "version": "0.0.0",
-    "homepage": "https://github.com/bamos/bamos.github.io",
+    "homepage": "https://github.com/BarathiGanesh-HB/barathiganesh-hb.github.io",
     "authors": [
-        "Brandon Amos <bamos@cs.cmu.edu>"
+        "Barathi Ganesh Hullathy Balakrishnan <barathiganesh.hb@gmail.com>"
     ],
     "license": "Apache",
     "ignore": [
