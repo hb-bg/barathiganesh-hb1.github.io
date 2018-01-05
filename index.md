@@ -23,7 +23,7 @@ title: Barathi Ganesh Hullathy Balakrishnan
 
 ## <i class="fa fa-chevron-right"></i> Fun Side Projects
 + [Workshops conducted by CEN](https://barathiganesh-hb.github.io/cen-workshops/).
-+ [Recent Talks given by CEN faculties](https://barathiganesh-hb.github.io/cen-talks/)
++ [Recent talks given by CEN faculties](https://barathiganesh-hb.github.io/cen-talks/)
 + [CEN NLP Group](https://barathiganesh-hb.github.io/cen-nlp-group/)
 ---
 
