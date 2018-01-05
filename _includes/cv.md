@@ -103,7 +103,7 @@ Cognitive Science Practitioner and Research Scholar (Ph.D.) with good theoretica
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><a href='http://ceur-ws.org/Vol-1996/paper16.pdf' target='_blank'><img src="images/publications/hlp.png"/></a> </td>
+<td class="col-md-3"><a href='http://ceur-ws.org/Vol-1996/paper16.pdf' target='_blank'><img src="images/publications/hlp.PNG"/></a> </td>
 <td>
     <strong>Health Care Text Classification through Class Embeddings</strong><br>
     <strong>Barathi Ganesh Hullathy Balakrishnan</strong>, Vinayakumar, Anand Kumar Madasamy, and Soman Kotti Padannayil <br>
