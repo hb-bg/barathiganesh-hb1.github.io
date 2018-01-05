@@ -25,6 +25,7 @@ title: Barathi Ganesh Hullathy Balakrishnan
 + [Workshops conducted by CEN](https://barathiganesh-hb.github.io/cen-workshops/).
 + [Recent talks given by CEN faculties](https://barathiganesh-hb.github.io/cen-talks/)
 + [CEN NLP Group](https://barathiganesh-hb.github.io/cen-nlp-group/)
+
 ---
 
 Last updated on {% include last-updated.txt %}
