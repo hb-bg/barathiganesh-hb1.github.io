@@ -179,25 +179,25 @@ method for target classes.
 <tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-    Python, R, Matlab
+Python, R, Matlab
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Frameworks</td>
   <td markdown="1">
-    NumPy, Pandas, SciPy, TensorFlow, DragoNN, DeepChem, NLTK, Scikit Learn, Gensim, Nimfa, Pandas,  Rasa NLU, Rasa Core, Keras, Bottle, Django, Stanford Core NLP and Mallet..
+NumPy, Pandas, SciPy, TensorFlow, DragoNN, DeepChem, NLTK, Scikit Learn, Gensim, Nimfa, Pandas,  Rasa NLU, Rasa Core, Keras, Bottle, Django, Stanford Core NLP and Mallet.
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Systems</td>
   <td markdown="1">
-    Linux, Windows
+Linux, Windows
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Documentation Tools</td>
   <td markdown="1">
-    Libreoffice, Microsoft Office, and Latex.
+Libreoffice, Microsoft Office, and Latex.
   </td>
 </tr>
 </table>
