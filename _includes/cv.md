@@ -1,22 +1,22 @@
- I am a fourth-year Computer Science Ph.D. student at Carnegie Mellon University and am supported by an NSF graduate research fellowship. I spent the first two years of my Ph.D. working on mobile systems and now work with [Zico Kolter](http://zicokolter.com/) on machine learning and optimization. I am particularly interested in improving our understanding of important modeling problems in computer vision, language, and reinforcement learning through the use of deep learning, optimization (sometimes convex), theory, and statistics. As examples, see our [input-convex neural network](https://arxiv.org/abs/1609.07152) and [OptNet](https://arxiv.org/abs/1703.00443) papers. 
-
-I strongly believe in open science and reproducible research and actively publish code on [my Github profile](https://github.com/bamos). I am also the author of [OpenFace](https://cmusatyalab.github.io/openface/), which is an open source face recognition project that uses deep learning.<br><br>
+Cognitive Science Practitioner and Research Scholar (Ph.D.) with good theoretical – practical experience in Linear algebra, Optimization, Probabilistic Graphical Models, Machine Learning, Deep Learning and Dimensionality Reduction Methods. Specialized in the field of Natural Language Processing, Text Mining, Data Mining, Image Processing, Speech Processing and Distributional frameworks.
 
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>Nov 2017</td>
-  <td>I will be at NIPS 2017 this year. Come see our <a href='https://papers.nips.cc/paper/7132-task-based-end-to-end-model-learning-in-stochastic-optimization'>Task-based End-to-end Model Learning in Stochastic Optimization</a> work at the main conference and our (unpublished) End-to-end Model Predictive Control work at the deep reinforcement learning symposium. </td>
+  <td class='col-md-3'> 8-9, Jan 2017</td>
+  <td>I will be handling Dyanamic Mode Decomposition from scratch . In the workshop on <a href='https://barathiganesh-hb.github.io/cen-ddm2017/'>Data -Driven Modelling 2017</a> at Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore. </td>
 </tr>
 <tr>
-  <td class='col-md-3'>June 2017</td>
-  <td>Our ICNN and OptNet papers have been accepted to ICML and the camera-ready versions are available on arXiv.</td>
+  <td class='col-md-3'>16-17, Jan 2017</td>
+  <td>I will be handling Deep Learning with Python . In the Faculty Development Program (FDP) at Mepco Schlenk Engineering College, Sivakasi. </td>
 </tr>
+
 <tr>
-  <td class='col-md-3'>May 2017</td>
-  <td>I am interning at Google DeepMind in London this summer with Nando de Freitas.</td>
+  <td class='col-md-3'>20, Jan 2017</td>
+  <td>I will be handling Natural Language Processing with Deep Learning . In the Faculty Development Program (FDP) at Vidya Academy of Science & Technology, Thrissur. </td>
 </tr>
+
 </table>
 
 
