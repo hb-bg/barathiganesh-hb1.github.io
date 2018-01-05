@@ -1,3 +1,3 @@
-Brandon D. Amos is a Computer Science Ph.D. student at Carnegie Mellon University
-with research interests in machine learning, computer vision, and mobile computing.
-He obtained a B.S. in Computer Science from Virginia Tech in May 2014.
+Cognitive Science Practitioner and Research Scholar (Ph.D.) with good theoretical – practical experience in Linear algebra, Optimization, Probabilistic Graphical Models, Machine Learning, Deep Learning and Dimensionality Reduction Methods.
+Specialized in the field of Natural Language Processing, Text Mining, Data Mining, Image Processing, Speech Processing and Distributional frameworks.
+
