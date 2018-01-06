@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Barathi Ganesh Hullathy Balakrishnan
+title: Barathi Ganesh HB
 ---
 
 ---
