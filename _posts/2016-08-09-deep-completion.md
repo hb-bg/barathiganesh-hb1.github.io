@@ -24,11 +24,6 @@ Data-driven dynamical systems is a burgeoning field-it connects how measurements
 ## DMD - Dynamic Mode Decomposition
 
 {% include image.html
-   img="/data/dmd.jpg"
-   caption="Photoshop example of automatically filling in missing image parts. (Image CC licensed, [source](https://flic.kr/p/7Ye6Sj).)"
-%}
-
-{% include image.html
    img="/data/2016-08-09/content-aware-2.jpg"
    caption="Dynamic Mode Decomposition ([source](http://bookstore.siam.org/ot149/)"
 %}
