@@ -4,17 +4,12 @@ Cognitive Science Practitioner and Research Scholar (Ph.D.) with good theoretica
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'> 8-9, Jan 2017</td>
-  <td>I will be handling Dyanamic Mode Decomposition from scratch . In the workshop on <a href='https://barathiganesh-hb.github.io/cen-ddm2017/'>Data -Driven Modelling 2017</a> at Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore. </td>
+  <td class='col-md-3'> 22-23, Feb 2018</td>
+  <td>I will be handling "RIDING THROUGH THE NEURAL NETWORK'S PATH AND MIMIC YOUR NEURO CORTEX". In the workshop on <a href='https://anokha.amrita.edu/home.html#/workshop/26'>Anokha 2018 Deep Learning Workshop</a> at Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore. </td>
 </tr>
 <tr>
-  <td class='col-md-3'>16-17, Jan 2017</td>
-  <td>I will be handling Deep Learning with Python . In the Faculty Development Program (FDP) at Mepco Schlenk Engineering College, Sivakasi. </td>
-</tr>
-
-<tr>
-  <td class='col-md-3'>20, Jan 2017</td>
-  <td>I will be handling Natural Language Processing with Deep Learning . In the Faculty Development Program (FDP) at Vidya Academy of Science & Technology, Thrissur. </td>
+  <td class='col-md-3'> 27 Feb 2018</td>
+  <td>I will be handling Deep Learning with Python . In the Faculty Development Program (FDP) at Adi Shankara Institute of Engineering Technology, Kalady, Ernakulam, Kerala. </td>
 </tr>
 
 </table>
@@ -94,7 +89,7 @@ Cognitive Science Practitioner and Research Scholar (Ph.D.) with good theoretica
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Selected Publications <a href="https://github.com/BarathiGanesh-HB/barathiganesh-hb.github.io/blob/master/publications/selected.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+## <i class="fa fa-chevron-right"></i> Selected Publications <a href="https://hb-bg.github.io/blob/master/publications/selected.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
 <a href="https://scholar.google.co.in/citations?user=_5XB1ksAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
@@ -103,7 +98,7 @@ Cognitive Science Practitioner and Research Scholar (Ph.D.) with good theoretica
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><a href='http://ceur-ws.org/Vol-1996/paper16.pdf' target='_blank'><img src="https://github.com/BarathiGanesh-HB/barathiganesh-hb.github.io/tree/master/images/publications/hlp.PNG"/></a> </td>
+<td class="col-md-3"><a href='http://ceur-ws.org/Vol-1996/paper16.pdf' target='_blank'><img src="https://hb-bg.github.io/tree/master/images/publications/hlp.PNG"/></a> </td>
 <td>
     <strong>Health Care Text Classification through Class Embeddings</strong><br>
     <strong>Barathi Ganesh Hullathy Balakrishnan</strong>, Vinayakumar, Anand Kumar Madasamy, and Soman Kotti Padannayil <br>
@@ -124,6 +119,57 @@ task, the task 1 is about distinguishing the tweets mentioning ”adverse drug r
 The task 2 is about distinguishing the tweets that includes personal medication intake, possible medication intake and
 non-intake. The preliminary results are satisfying in-order to continue the research in developing a representation
 method for target classes.
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://www.sciencedirect.com/science/article/pii/S2212017315003138/pdf?md5=b7626001e941cc8fc3dd38c36a8e0180&pid=1-s2.0-S2212017315003138-main.pdf' target='_blank'><img src="https://hb-bg.github.io/tree/master/images/publications/hlp.PNG"/></a> </td>
+<td>
+    <strong>Apache Spark a Big Data Analytics Platform for Smart Grid</strong><br>
+    <strong>Barathi Ganesh Hullathy Balakrishnan</strong>, Shyam R, Sachin Kumar, Prabaharan Poornachandran and Soman KP <br>
+    Smart Grid Technologies<br>
+    [1] 
+[<a href='javascript: none'
+    onclick='$("#abs_donti2017task").toggle()'>abs</a>] [<a href='https://www.sciencedirect.com/science/article/pii/S2212017315003138/pdf?md5=b7626001e941cc8fc3dd38c36a8e0180&pid=1-s2.0-S2212017315003138-main.pdf' target='_blank'>pdf</a>] <br>
+    
+<div id="abs_donti2017task" style="text-align: justify; display: none" markdown="1">
+Smart grid is a complete automation system, where large pool of sensors is embedded in the existing power grids system for controlling and monitoring it by utilizing modern information technologies. The data collected from these sensors are huge and have all the characteristics to be called as Big Data. The Smart-grid can be made more intelligent by processing and deriving new information from these data in real time. This paper presents Apache spark as a unified cluster computing platform which is suitable for storing and performing Big Data analytics on smart grid data for applications like automatic demand response and real time pricing.
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='http://ceur-ws.org/Vol-1395/paper_20.pdf' target='_blank'><img src="https://hb-bg.github.io/tree/master/images/publications/hlp.PNG"/></a> </td>
+<td>
+    <strong>Amrita-cen@ neel: Identification and linking of twitter entities</strong><br>
+    <strong>Barathi Ganesh Hullathy Balakrishnan</strong>, Abinaya N, Anand Kumar M, Vinayakumar R and Soman KP <br>
+    Making Sense of Microposts (\# Microposts2015)<br>
+    [1] 
+[<a href='javascript: none'
+    onclick='$("#abs_donti2017task").toggle()'>abs</a>] [<a href='http://ceur-ws.org/Vol-1395/paper_20.pdf' target='_blank'>pdf</a>] <br>
+    
+<div id="abs_donti2017task" style="text-align: justify; display: none" markdown="1">
+A short text gets updated every now and then. With the global upswing of such micro posts, the need to retrieve information from them also seems to be incumbent. This work focuses on the knowledge extraction from the micro posts by having entity as evidence. Here the extracted entities are then linked to their relevant DBpedia source by featurization, Part Of Speech (POS) tagging, Named Entity Recognition (NER) and Word Sense Disambiguation (WSD). This short paper encompasses its contribution to #Micropost2015 - NEEL task by experimenting existing Machine Learning (ML) algorithms.
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://dl.acm.org/citation.cfm?id=2824882' target='_blank'><img src="https://hb-bg.github.io/tree/master/images/publications/hlp.PNG"/></a> </td>
+<td>
+    <strong>AMRITA_CEN@FIRE-2014: Named Entity Recognition for Indian Languages using Rich Features</strong><br>
+    <strong>Barathi Ganesh Hullathy Balakrishnan</strong>, Abinaya N, Neethu John, M. Anand Kumar and K. P. Soman <br>
+    FIRE 2014<br>
+    [1] 
+[<a href='javascript: none'
+    onclick='$("#abs_donti2017task").toggle()'>abs</a>] [<a href='https://dl.acm.org/citation.cfm?id=2824882' target='_blank'>pdf</a>] <br>
+    
+<div id="abs_donti2017task" style="text-align: justify; display: none" markdown="1">
+This paper aims at implementing Named Entity Recognition (NER) for four languages such as English, Tamil, Hindi and Malayalam. The results obtained from this work are submitted to a research evaluation workshop Forum for Information Retrieval and Evaluation (FIRE 2014). This system detects three levels of named entity tags which are referred as nested named entities. It is a multi-label problem solved using chain classifier method. In this work, Conditional Random Field (CRF) and Support Vector Machine (SVM) are used for implementing NER system. In FIRE 2014, we developed a English NER system using CRF and other NER system for Tamil, Hindi and Malayalam are based on SVM. The FIRE estimated the average precision for all the four languages as 41.93 for outermost level and 33.25 for inner level. In order to improve the performance of Indian languages, we implemented CRF based NER system for the same corpus in Tamil, Hindi and Malayalam. The average precision measure for these mentioned languages are 42.87 for outer level and 36.31 for inner level. The overall performance of the NER system improved by 2.24% for outer level and 9.20% for inner level.
 </div>
 
 </td>
@@ -189,6 +235,9 @@ method for target classes.
 + The 8th International Cybersecurity  Data Mining Competition (CDMC-2017)
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks
++ Topic: "<strong>Natural Language Processing with Deep Learning</strong>" in the Faculty Development Program (FDP) at Vidya Academy of Science & Technology, Thrissur. 20, Jan 2017.
++ Topic: "<strong>Deep Learning with Python</strong>" in the Faculty Development Program (FDP) at Mepco Schlenk Engineering College, Sivakasi. 16-17, Jan 2017.
++ Topic: "<strong>Dyanamic Mode Decomposition</strong>"  from scratch . In the workshop on <a href='https://barathiganesh-hb.github.io/cen-ddm2017/'>Data -Driven Modelling 2017</a> at Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore. 8-9, Jan 2017.
 + Topic: "<strong>Deep Learning for BioInformatics</strong>"  in the workshop on "DeepChem 2017: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials", Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham University, December 22-24, 2017.
 + Topic: "<strong>Dynamic Mode Decomposition in Epidemiology</strong>" in the Workshop on "A Refresher experiential course on linear algebra and Optimization for Most Modern Signal processing and pattern classification", Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham University, 25-11,26-11 and 27-11, 2017.
 + Topic: "<strong>Natural Language Processing for Cyber Security</strong>"  in the workshop on "AISec 2017 Workshop: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security", Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham University, Saturday, October 28, 2017.
