@@ -185,6 +185,10 @@ This paper aims at implementing Named Entity Recognition (NER) for four language
   <td><strong>Deep Learning and Probabilistic Graphical Models</strong> (16CN613), TA</td>
 </tr>
 <tr>
+  <td class='col-md-1'>2017-2018, Odd</td>
+  <td><strong>Deep Learning</strong> (17AL605), TA</td>
+</tr>
+<tr>
   <td class='col-md-1'>2016-2017, Even</td>
   <td><strong>Deep Learning for Natural Language Processing</strong> (16CN704), TA</td>
 </tr>
