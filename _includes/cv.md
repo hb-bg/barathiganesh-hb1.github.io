@@ -98,7 +98,7 @@ Cognitive Science Practitioner and Research Scholar (Ph.D.) with good theoretica
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><a href='http://ceur-ws.org/Vol-1996/paper16.pdf' target='_blank'><img src="https://hb-bg.github.io/tree/master/images/publications/hlp.PNG"/></a> </td>
+<td class="col-md-3"><a href='http://ceur-ws.org/Vol-1996/paper16.pdf' target='_blank'><img src="https://github.com/hb-bg/hb-bg.github.io/blob/master/images/publications/hlp.png"/></a> </td>
 <td>
     <strong>Health Care Text Classification through Class Embeddings</strong><br>
     <strong>Barathi Ganesh Hullathy Balakrishnan</strong>, Vinayakumar, Anand Kumar Madasamy, and Soman Kotti Padannayil <br>
@@ -125,7 +125,7 @@ method for target classes.
 </tr>
 
 <tr>
-<td class="col-md-3"><a href='https://www.sciencedirect.com/science/article/pii/S2212017315003138/pdf?md5=b7626001e941cc8fc3dd38c36a8e0180&pid=1-s2.0-S2212017315003138-main.pdf' target='_blank'><img src="https://hb-bg.github.io/tree/master/images/publications/hlp.PNG"/></a> </td>
+<td class="col-md-3"><a href='https://www.sciencedirect.com/science/article/pii/S2212017315003138/pdf?md5=b7626001e941cc8fc3dd38c36a8e0180&pid=1-s2.0-S2212017315003138-main.pdf' target='_blank'><img src="https://github.com/hb-bg/hb-bg.github.io/blob/master/images/publications/hlp.png"/></a> </td>
 <td>
     <strong>Apache Spark a Big Data Analytics Platform for Smart Grid</strong><br>
     <strong>Barathi Ganesh Hullathy Balakrishnan</strong>, Shyam R, Sachin Kumar, Prabaharan Poornachandran and Soman KP <br>
@@ -142,7 +142,7 @@ Smart grid is a complete automation system, where large pool of sensors is embed
 </tr>
 
 <tr>
-<td class="col-md-3"><a href='http://ceur-ws.org/Vol-1395/paper_20.pdf' target='_blank'><img src="https://hb-bg.github.io/tree/master/images/publications/hlp.PNG"/></a> </td>
+<td class="col-md-3"><a href='http://ceur-ws.org/Vol-1395/paper_20.pdf' target='_blank'><img src="https://github.com/hb-bg/hb-bg.github.io/blob/master/images/publications/hlp.png"/></a> </td>
 <td>
     <strong>Amrita-cen@ neel: Identification and linking of twitter entities</strong><br>
     <strong>Barathi Ganesh Hullathy Balakrishnan</strong>, Abinaya N, Anand Kumar M, Vinayakumar R and Soman KP <br>
@@ -159,7 +159,7 @@ A short text gets updated every now and then. With the global upswing of such mi
 </tr>
 
 <tr>
-<td class="col-md-3"><a href='https://dl.acm.org/citation.cfm?id=2824882' target='_blank'><img src="https://hb-bg.github.io/tree/master/images/publications/hlp.PNG"/></a> </td>
+<td class="col-md-3"><a href='https://dl.acm.org/citation.cfm?id=2824882' target='_blank'><img src="https://github.com/hb-bg/hb-bg.github.io/blob/master/images/publications/hlp.png"/></a> </td>
 <td>
     <strong>AMRITA_CEN@FIRE-2014: Named Entity Recognition for Indian Languages using Rich Features</strong><br>
     <strong>Barathi Ganesh Hullathy Balakrishnan</strong>, Abinaya N, Neethu John, M. Anand Kumar and K. P. Soman <br>
